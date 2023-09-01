@@ -1,1 +1,2 @@
-# picogame_hosting
+# Pachinko game
+2d game prototype. 
